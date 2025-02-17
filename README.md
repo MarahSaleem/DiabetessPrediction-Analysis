@@ -47,22 +47,18 @@ Ensure you have Python 3.x installed along with the required libraries:
 
 pip install numpy pandas seaborn scikit-learn imbalanced-learn matplotlib
 
-🔹 Running the Project
+**🔹 Running the Project**
 Clone this repository:
-
-bash
 git clone https://github.com/MarahSaleem/Diabetes-Prediction-Analysis.git
+
 Navigate to the project directory:
-
-bash
 cd Diabetes-Prediction-Analysis
-Run the Jupyter Notebook (.ipynb) using:
 
-bash
+Run the Jupyter Notebook (.ipynb) using:
 jupyter notebook
 Execute the cells to train and evaluate the model.
 
-📊 Results & Future Improvements
+**📊 Results & Future Improvements**
 The SVM model successfully predicted diabetes with high accuracy.
 
 Further improvements can be made by:
@@ -70,8 +66,8 @@ Further improvements can be made by:
 Testing with Deep Learning models (e.g., Neural Networks).
 Adding more relevant features to the dataset.
 Collecting more real-world patient data for better generalization.
-🤝 Contributing
+**🤝 Contributing**
 Feel free to fork the repository and submit a pull request if you have suggestions or improvements!
 
-📜 License
+**📜 License**
 This project is open-source and available under the MIT License.
